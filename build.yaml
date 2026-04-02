@@ -1,6 +1,6 @@
 include:
-  - board: nrf52840-m2
+  - board: xiao_ble
     shield: totem_left
-  - board: nrf52840-m2
+  - board: xiao_ble
     shield: totem_right
 # there is no settingsreset (needed) for the XIAO
